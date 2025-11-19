@@ -95,3 +95,4 @@
 /mnt/d/git/github/myWebApp/obj/Debug/net9.0/myWebApp.pdb
 /mnt/d/git/github/myWebApp/obj/Debug/net9.0/myWebApp.genruntimeconfig.cache
 /mnt/d/git/github/myWebApp/obj/Debug/net9.0/ref/myWebApp.dll
+/mnt/d/git/github/myWebApp/obj/Debug/net9.0/myWebApp.sourcelink.json
